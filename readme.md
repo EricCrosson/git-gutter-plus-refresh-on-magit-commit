@@ -10,16 +10,13 @@ With [Quelpa](https://framagit.org/steckerhalter/quelpa)
 (use-package git-gutter-plus-refresh-on-magit-commit
   :quelpa (git-gutter-plus-refresh-on-magit-commit
            :fetcher github
-           :repo "EricCrosson/git-gutter-plus-refresh-on-magit-commit")
-  ;; TODO: write config, if any
-  :config ())
+           :repo "EricCrosson/git-gutter-plus-refresh-on-magit-commit"))
 ```
 
 Or manually, after downloading into your `load-path`
 
 ``` {.sourceCode .lisp}
 (require 'git-gutter-plus-refresh-on-magit-commit)
-;; TODO: write config, if any
 ```
 
 ## Commentary
