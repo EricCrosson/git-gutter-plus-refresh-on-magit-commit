@@ -3,7 +3,7 @@
 ;;; Copyright (C) 2018  Free Software Foundation, Inc.
 ;;
 ;; Author: Eric Crosson <eric.s.crosson@utexas.com>
-;; Version: 0.0.1
+;; Version: 1.0.2
 ;; Keywords: convenience
 ;; URL: https://github.com/EricCrosson/git-gutter-plus-refresh-on-magit-commit
 ;; Package-Requires: ((emacs "24") (projectile "1.0.0") (magit "2.1.0") (git-gutter+ "0.4"))
